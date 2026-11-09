@@ -1,13 +1,13 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "description": "Typed, PHP-like language for the web: run, serve, test and build",
     "homepage": "https://phv-lang.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/miyagawayuu/phv/releases/download/v1.2.1/phv-1.2.1-x86_64-pc-windows-msvc.zip",
-            "hash": "9b373bb40893004e8326734b78ba9cda90cf649db397d6aa474a8c07c6f67ea6",
-            "extract_dir": "phv-1.2.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/miyagawayuu/phv/releases/download/v1.3.0/phv-1.3.0-x86_64-pc-windows-msvc.zip",
+            "hash": "05cf94c3605a57c493cf296e2d9954b232d24e75afea498b39773600732611d8",
+            "extract_dir": "phv-1.3.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": "phv.exe",
